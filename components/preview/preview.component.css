@@ -1,0 +1,28 @@
+h1
+{
+  color: #ee1515;
+
+}
+.fondoloco{
+  background: linear-gradient(90deg, rgb(0, 0, 0), rgba(0,0,0,0.8));
+  width: auto;
+  height: auto;
+}
+
+.fondoIMG{
+  width: auto;
+  height: auto;
+  background-size: cover;
+  background-repeat: no-repeat;
+  z-index: 1;
+
+  background-image: url(https://2.bp.blogspot.com/rQpLkiOtt1RnW_Bi9EXgw4jzKmpDVs1gGWdhbnxEGS6xQfCmY8lTI-tMaZAo2tf8ojPF1_uNjDWPzpsFOuy4prbVCs_hyqc3Gb3-YxzJLsSZgLe-SOIGqNBClRn59ItfizZf56ZV-w=s1600);
+
+}
+
+.imgComicLEFT{
+  float: left;
+  width: 30%;
+  background-image: url(/src/app/components/preview/img/fondoPreview.jpg);
+
+}
